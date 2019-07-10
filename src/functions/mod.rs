@@ -3,5 +3,5 @@
 
 // Export the modules that define Azure Functions here.
 azure_functions::export! {
-
+    calculate_error_budget
 }
